@@ -3,9 +3,10 @@
 ## URI? URL? URN?
 
 **: URI는 로케이터(locator), 이름(name)또는 둘 다 추가로 분류될 수 있다.**
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
+![image](https://github.com/YuHyeonWook/-TIL-/assets/110236953/40b29bc1-42f4-4171-9f10-16c3820f279d)
+![image](https://github.com/YuHyeonWook/-TIL-/assets/110236953/641d842b-4554-4599-930b-740385fefb22)
+![image](https://github.com/YuHyeonWook/-TIL-/assets/110236953/aab76e96-2ecb-4c3f-b5ed-47be010c0917)
+
 - URL은 우리가 흔히 웹브라우저에서 사용하는 주소
 - URN은 위 그림과 같이 이름을 부여하는 것인데, 이름만 가지고는 주소를 찾아갈 수 없기에 실제로 사용하기는 힘들다.
 ---
