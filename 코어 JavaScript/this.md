@@ -122,8 +122,9 @@ obj['method'](2); // { method: f } 2
 
 - 메서드 내부에서의 this에는 **호출한 주체**에 대한 정보가 담긴다.
 - **호출 주체**는 함수명(프로퍼티명) 앞의 객체이다.
+  
+<img src="https://github.com/YuHyeonWook/TIL/assets/110236953/7431b284-d1b5-4cb2-9e0b-e07c35753198" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
-![image](https://github.com/YuHyeonWook/TIL/assets/110236953/7431b284-d1b5-4cb2-9e0b-e07c35753198)
 
 
 - 위 사진에서 a.b()에서 a는 this, b()는 메서드이다.
@@ -141,8 +142,8 @@ var obj = {
 obj.methodA();// {inner: {…}, methodA: ƒ}
 obj['methodA'](); // {inner: {…}, methodA: ƒ}
 ```
-![image](https://github.com/YuHyeonWook/TIL/assets/110236953/17b6411a-6e8c-47a5-92f1-952e075ee668)
 
+<img src="https://github.com/YuHyeonWook/TIL/assets/110236953/17b6411a-6e8c-47a5-92f1-952e075ee668" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
 - .은 대괄호 표기법으로 표현할 수 있다.
 - person[’info’] 가 this이고, [’getName’]();가 메서드명이다.
@@ -280,7 +281,7 @@ console.log(choco, nabi);
 
 생성함수 호출 시(new 연산자 사용) 예시)
 
-![image](https://github.com/YuHyeonWook/TIL/assets/110236953/b58c5900-a722-4862-80df-0538e8e629ae)
+<img src="https://github.com/YuHyeonWook/TIL/assets/110236953/b58c5900-a722-4862-80df-0538e8e629ae" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
 ---
 
