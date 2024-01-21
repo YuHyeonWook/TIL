@@ -123,7 +123,8 @@ obj['method'](2); // { method: f } 2
 - 메서드 내부에서의 this에는 **호출한 주체**에 대한 정보가 담긴다.
 - **호출 주체**는 함수명(프로퍼티명) 앞의 객체이다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cdf5fd00-85a4-4001-aa3d-4b52542685d0/4e604554-835e-4fbf-bdc5-c6f810485fd4/Untitled.png)
+![image](https://github.com/YuHyeonWook/TIL/assets/110236953/7431b284-d1b5-4cb2-9e0b-e07c35753198)
+
 
 - 위 사진에서 a.b()에서 a는 this, b()는 메서드이다.
 - 또한, a.b.c()는 a.b가 this 이고, c()가 메서드이다.
@@ -140,8 +141,8 @@ var obj = {
 obj.methodA();// {inner: {…}, methodA: ƒ}
 obj['methodA'](); // {inner: {…}, methodA: ƒ}
 ```
+![image](https://github.com/YuHyeonWook/TIL/assets/110236953/17b6411a-6e8c-47a5-92f1-952e075ee668)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cdf5fd00-85a4-4001-aa3d-4b52542685d0/58f0461b-c18b-4fab-8b84-16971c0654f1/Untitled.png)
 
 - .은 대괄호 표기법으로 표현할 수 있다.
 - person[’info’] 가 this이고, [’getName’]();가 메서드명이다.
@@ -279,7 +280,7 @@ console.log(choco, nabi);
 
 생성함수 호출 시(new 연산자 사용) 예시)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cdf5fd00-85a4-4001-aa3d-4b52542685d0/f72ab282-9f71-4761-8ac3-124809b14cc8/Untitled.png)
+![image](https://github.com/YuHyeonWook/TIL/assets/110236953/b58c5900-a722-4862-80df-0538e8e629ae)
 
 ---
 
