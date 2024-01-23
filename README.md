@@ -26,7 +26,7 @@
 * [this](https://github.com/YuHyeonWook/TIL/blob/main/%EC%BD%94%EC%96%B4%20JavaScript/this.md)
 * [콜백함수](https://github.com/YuHyeonWook/TIL/blob/main/%EC%BD%94%EC%96%B4%20JavaScript/%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98.md)
 * [클로저](https://github.com/YuHyeonWook/TIL/blob/main/%EC%BD%94%EC%96%B4%20JavaScript/%ED%81%B4%EB%A1%9C%EC%A0%80.md)
-* [프로토타입]()
+* [프로토타입](https://github.com/YuHyeonWook/TIL/blob/main/%EC%BD%94%EC%96%B4%20JavaScript/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
   + [프로토타입 추가]()
 * [클래스](https://github.com/YuHyeonWook/TIL/blob/main/%EC%BD%94%EC%96%B4%20JavaScript/%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 <br>
