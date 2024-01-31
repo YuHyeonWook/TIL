@@ -68,8 +68,8 @@ git mv '파일명'
 # 특정 파일을 지정된 상태로 복구
 # add가 안된상태에서 --staged를 빼면 working directory에서도 제거됨
 git restore (파일명)
-	# - 워킹 디렉토리의 특정 파일 복구
-	# - 파일명 자리에 . : 모든 파일 복구
+  # - 워킹 디렉토리의 특정 파일 복구
+  # - 파일명 자리에 . : 모든 파일 복구
 
 # 변경상태인 파일을 **staging area**에서 **working directory**로 돌려놓기
 git restore --staged (파일명)
