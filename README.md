@@ -19,7 +19,7 @@
 
 # Git
 * [Git 기초](https://github.com/YuHyeonWook/TIL/blob/main/Git/Git%20%EA%B8%B0%EC%B4%88.md)
-* [Git 사용법 (1) reset, fetch vs pull, restore, 설정 방법]()
+* [Git 사용법 (1) reset, fetch vs pull, restore, 설정 방법](https://github.com/YuHyeonWook/TIL/blob/main/Git/Git%20%EC%82%AC%EC%9A%A9%EB%B2%95%20(1).md)
 * [Git 사용법 (2)]()
 * [유용한 명령어]()
 * [Git Branch의 활용]()
