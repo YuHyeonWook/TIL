@@ -23,9 +23,10 @@
 * [Git 사용법 (2)](https://github.com/YuHyeonWook/TIL/blob/main/Git/Git%20%EC%82%AC%EC%9A%A9%EB%B2%95%20(2).md)
 * [유용한 명령어](https://github.com/YuHyeonWook/TIL/blob/main/Git/%EC%9C%A0%EC%9A%A9%ED%95%9C%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
 * [Git Branch의 활용](https://github.com/YuHyeonWook/TIL/blob/main/Git/Git%20Branch%EC%9D%98%20%ED%99%9C%EC%9A%A9.md)
-* [Git log 활용]()
-* [Git 추가 기능들]()
+* [Git log 활용](https://github.com/YuHyeonWook/TIL/blob/main/Git/Git%20log%ED%99%9C%EC%9A%A9.md)
 * [Git diff, Git blame, Git bisect]()
+* [Git 추가 기능들]()
+
   
 <br/>
 
