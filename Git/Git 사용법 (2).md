@@ -71,7 +71,8 @@ Closes #125
 
 [😊 사이트 방문하기](https://gitmoji.dev/)
 
-!https://www.yalco.kr/images/lectures/git-github-dive/7-1/gitmoji-commits.png
+![image](https://github.com/YuHyeonWook/TIL/assets/110236953/6d673384-7065-447f-b8a7-a67c617442fb)
+
 
 - 이렇게 꾸밀 수도 있다.
 
