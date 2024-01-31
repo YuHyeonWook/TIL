@@ -73,7 +73,6 @@ Closes #125
 
 ![image](https://github.com/YuHyeonWook/TIL/assets/110236953/6d673384-7065-447f-b8a7-a67c617442fb)
 
-
 - 이렇게 꾸밀 수도 있다.
 
 ---
