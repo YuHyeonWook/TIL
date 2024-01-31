@@ -2,7 +2,8 @@
 
 ### Git의 3가지 공간
 
-![Alt text](image-4.png)
+![image](https://github.com/YuHyeonWook/TIL/assets/110236953/6150fa67-39b7-43f2-a885-d87f08a5aea0)
+
 
 ### **Working directory**
 
