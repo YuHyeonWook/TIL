@@ -60,7 +60,7 @@ git merge --squash (대상 브랜치)
   - 일반 merge : A와 B 두 브랜치를 한 곳으로 이어붙임
   - merge --squash : B 브랜치의 마디들을 복사해다가 한 마디로 모아 A 브랜치에 붙임 (staged 상태로)
 
----
+
 
 <br/>
 
