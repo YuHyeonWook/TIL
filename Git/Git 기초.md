@@ -198,9 +198,10 @@ git log --al --decorate --oneline --graph
   - 브랜치 사용 내역을 남길 필요가 있을 때
   - 다른 형태의 merge도 있음
 
-![Alt text](image.png)
+![image](https://github.com/YuHyeonWook/TIL/assets/110236953/970cbacc-9b75-4faa-905f-11181d6f72dd)
 
-![Alt text](image-1.png)
+![image](https://github.com/YuHyeonWook/TIL/assets/110236953/acd891cc-950b-490f-ab48-3204201e8b18)
+
 
 ### merge로 합치기
 
@@ -218,9 +219,10 @@ git branch -d add-coach
   - 한 줄로 깔끔히 정리된 내욕을 유지하기 원할 때
   - 이미 팀원들과 공유한 커밋에 대해서는 사용하지 않는 것이 적합함
 
-![Alt text](image-2.png)
+![image](https://github.com/YuHyeonWook/TIL/assets/110236953/f51fd0c1-f84c-43d6-b340-b42e187e2f3c)
 
-![Alt text](image-3.png)
+![image](https://github.com/YuHyeonWook/TIL/assets/110236953/4535e003-e6a8-42df-baba-474db5bc5aed)
+
 
 <br/>
 
