@@ -5,9 +5,11 @@
   - 프로젝트의 여러 모드를 쉽게 전환하고 관리할 수 있음
 - 또한, **Git은 여러 사람들이 프로젝트에서 협업할 수 있도록 도와줌**
 
+<br/>
+
 # Git설정 & 프로젝트 관리
 
-## **Git 최초 설정**
+### **Git 최초 설정**
 
 - **Git 전역으로 사용자 이름과 이메일 주소를 설정해야함**
   - GitHub 계정과는 별개임
@@ -38,6 +40,8 @@ git init
 # 현재 폴더의 상태를 보여줌
 git status
 ```
+
+<br/>
 
 ## **Git의 관리에서 특정 파일/폴더를 배제해야 할 경우**
 
@@ -82,7 +86,7 @@ logs/*.c
 logs/**/debug.log
 ```
 
----
+<br/>
 
 ## **Git에 파일 반영하기**
 
@@ -115,6 +119,8 @@ git commit -am "[commit message]"
 git log
 ```
 
+<br/>
+
 **Vi 입력 모드로 진입**
 
 | 작업                | Vi 명령어 | 상세                                         |
@@ -126,6 +132,8 @@ git log
 | 저장하고 종료       | :wq       | 입력한 것이 있을 때 사용                     |
 | 위로 스크롤         | k         | git log등에서 내역이 길 때 사용              |
 | 아래로 스크롤       | j         | git log등에서 내역이 길 때 사용              |
+
+<br/>
 
 # Git에서 과거로 돌아가는 두 방식
 
@@ -148,7 +156,7 @@ git revert (되돌릴 커밋 해시)
 git revert --no-commit (되돌릴  커밋 해시)
 ```
 
----
+<br/>
 
 # **Branch**
 
@@ -190,9 +198,9 @@ git log --al --decorate --oneline --graph
   - 브랜치 사용 내역을 남길 필요가 있을 때
   - 다른 형태의 merge도 있음
 
-!https://blog.kakaocdn.net/dn/dYgvmH/btrWg1B6a0L/HkC24hYXQd36K7FlTbU71K/img.jpg
+![Alt text](image.png)
 
-!https://blog.kakaocdn.net/dn/b9ClaD/btrWggzpd01/APTOF9NynXws7jZlErGinK/img.jpg
+![Alt text](image-1.png)
 
 ### merge로 합치기
 
@@ -210,9 +218,11 @@ git branch -d add-coach
   - 한 줄로 깔끔히 정리된 내욕을 유지하기 원할 때
   - 이미 팀원들과 공유한 커밋에 대해서는 사용하지 않는 것이 적합함
 
-!https://blog.kakaocdn.net/dn/dYgvmH/btrWg1B6a0L/HkC24hYXQd36K7FlTbU71K/img.jpg
+![Alt text](image-2.png)
 
-!https://blog.kakaocdn.net/dn/beuCaY/btrWedXuWgi/47vOlbOuY6ElhKxq9AqeeK/img.jpg
+![Alt text](image-3.png)
+
+<br/>
 
 ### Rebase로 합치기
 
@@ -228,6 +238,8 @@ git merge new-teams
 # 합친 브랜치 삭제
 git branch -d new-teams
 ```
+
+<br/>
 
 # **원격 저장소 사용하기**
 
@@ -263,6 +275,8 @@ git remote remove (origin 등 원격 이름)
 git clone (원격 저장소 주소)
 ```
 
+<br/>
+
 ### **Push & Pull**
 
 ```bash
@@ -273,6 +287,8 @@ git push
 # 동료가 github에 올린 프로젝트를 내가 pull로 다운받음
 git pull
 ```
+
+<br/>
 
 ### pull 할 것이 있을 때 push를 해버리면?
 
@@ -290,6 +306,8 @@ git pull --rebase
 git push
 ```
 
+<br/>
+
 ### 협업 시 충돌이 발생하는 경우
 
 ```bash
@@ -303,6 +321,8 @@ git add .
 git commit
 ```
 
+<br/>
+
 ### 로컬의 내역을 강제로 push 하기
 
 ```bash
@@ -310,6 +330,8 @@ git commit
 # 혼자할때 사용하기 (협업할때 쓰면 데이터 나갈 수 있음)
 git push --force
 ```
+
+<br/>
 
 ### **원격의 Branch 다루기**
 
@@ -332,6 +354,8 @@ git branch --all
 git branch -a
 ```
 
+<br/>
+
 ### 원격의 브랜치를 로컬로 받아오기
 
 ```bash
@@ -346,6 +370,8 @@ git branch -a
 # 원격의 from-remote 브랜치를 연동하겠다는 의미함
 git switch -t origin/from-remote
 ```
+
+<br/>
 
 ### 원격의 브랜치 삭제
 
