@@ -42,7 +42,10 @@
 <br/>
 
 # JavaScript
-
+### 동기/비동기
+* 비동기
+* Promise
+* async/await
 <br/>
 
 # React
