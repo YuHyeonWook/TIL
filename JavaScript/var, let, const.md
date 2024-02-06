@@ -195,7 +195,10 @@ if(true){
   - 이는 let과 const는 선언과 초기화 사이에 TDZ가 막고 있어서 선언만 되고, 초기화는 되지 않아 에러가 발생하는 것이다.
   - 변수의 선언과 초기화 사이에 일시적으로 변수 값을 참조할 수 없는 구간을 TDZ라고 한다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cdf5fd00-85a4-4001-aa3d-4b52542685d0/2857712c-0478-48d2-85b2-997435ab7094/Untitled.png)
+</br>
+
+![image](https://github.com/YuHyeonWook/TIL/assets/110236953/666aadcb-f6b0-4bf2-ab8b-47c13d05a370)
+
 
 - var : 선언 및 초기화 ⇒ 할당
 - let, const : 선언 ⇒ TDZ ⇒ 초기화 ⇒ 할당
