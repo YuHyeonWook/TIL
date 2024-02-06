@@ -1,8 +1,6 @@
 # Today-I-Learned (TIL)
 [블로그](https://yho7955.tistory.com/)
 
-<br/>
-
 # HTTP
 * [인터넷 네트워크](https://github.com/YuHyeonWook/TIL/blob/main/HTTP/1.%20%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%9D%B8%ED%84%B0%EB%84%A4%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
 * [URL와 웹 브라우저 요청 흐름]()
@@ -25,7 +23,6 @@
 * [Git diff, Git blame, Git bisect](https://github.com/YuHyeonWook/TIL/blob/main/Git/Git%20diff%2C%20Git%20blame%2C%20Git%20bisect.md)
 * [Git 추가 기능들](https://github.com/YuHyeonWook/TIL/blob/main/Git/Git%20%EC%B6%94%EA%B0%80%20%EA%B8%B0%EB%8A%A5%EB%93%A4.md)
 
-  
 <br/>
 
 # 코어 JavaScript
@@ -41,7 +38,7 @@
 
 # JavaScript
 * [호이스팅](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85.md)
-* [비동기]()
+* [비동기](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/var,%20let,%20const.md)
 * [Promise]()
 * [async/await]()
 * [var, let, const]()
