@@ -1,4 +1,4 @@
-# Today-I-Learned1 (TIL1)
+# Today-I-Learned (TIL)
 [블로그](https://yho7955.tistory.com/)
 
 <br/>
