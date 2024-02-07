@@ -211,7 +211,7 @@ if(true){
 
 </br>
 
-## Const
+## const
 
 : const로 선언된 변수는 일정한 상수 값을 유지한다.
 
