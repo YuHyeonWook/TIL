@@ -47,10 +47,10 @@
 
 - [호이스팅](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85.md)
 - [불변값,가변값](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/%EB%B6%88%EB%B3%80%EA%B0%92%2C%EA%B0%80%EB%B3%80%EA%B0%92.md)
+- [var, let, const](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/var%2C%20let%2C%20const.md)
 - [비동기]()
 - [Promise]()
 - [async/await]()
-- [var, let, const]()
 
 <br/>
 
