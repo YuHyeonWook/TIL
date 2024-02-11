@@ -218,7 +218,7 @@ let obj = Object.fromEntries(map.entries()); // 맵을 일반 객체로 변환 (
 alert(obj.orange); // 2
 ```
 
-<br>
+</br>
 
 # 참고
 
