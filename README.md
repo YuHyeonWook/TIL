@@ -58,6 +58,8 @@
 - [Promise]()
 - [async/await]()
 
+- [Map]()
+
 <br>
 
 # React
