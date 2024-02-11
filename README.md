@@ -58,7 +58,7 @@
 - [Promise]()
 - [async/await]()
 
-- [Map]()
+- [Map](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/Map.md)
 
 <br>
 
