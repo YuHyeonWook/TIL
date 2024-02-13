@@ -132,7 +132,7 @@ export default App;
 - **①** Body 컴포넌트에 Props로 전달할 값을 객체 BodyProps로 만듬.
 - **②** 스프레드 연산자로 객체 BodyProps 각각의 프로퍼티를 Props 값으로 전달함.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cdf5fd00-85a4-4001-aa3d-4b52542685d0/6e3f482c-d9ad-4d16-8fcb-50103ec6ba65/Untitled.png)
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cdf5fd00-85a4-4001-aa3d-4b52542685d0/6e3f482c-d9ad-4d16-8fcb
 
 <br>
 
