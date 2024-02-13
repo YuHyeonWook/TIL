@@ -97,8 +97,6 @@ grid-template-columns : 1fr 2fr 200px
 이 때 사용되는 **`fr`** 이란 **fraction(분수)의 약자임**
 분수라는 이름의 뜻으로 유추할 수 있듯 **grid-template에서 사용할 수 있는 비율 단위이다.**
 
-https://dingco.s3.ap-northeast-2.amazonaws.com/2022-08-05/c28bce52-2675-4624-94b4-659609112b53/origin/f0e41b50-a1a0-4c17-9269-fecce9cb9dd1
-
 <br>
 
 ### repeat()
