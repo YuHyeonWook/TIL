@@ -17,13 +17,6 @@
 
 <br>
 
-# CSS
-
-- [레이아웃 (float&flex)](<https://github.com/YuHyeonWook/TIL/blob/main/CSS/%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%20(float%26flex).md>)
-- [레이아웃 gird](https://github.com/YuHyeonWook/TIL/blob/main/CSS/%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%20gird.md)
-
-<br>
-
 # Git
 
 - [Git 기초](https://github.com/YuHyeonWook/TIL/blob/main/Git/Git%20%EA%B8%B0%EC%B4%88.md)
@@ -69,3 +62,10 @@
 <br>
 
 # TS
+
+<br>
+
+# CSS
+
+- [레이아웃 (float&flex)](<https://github.com/YuHyeonWook/TIL/blob/main/CSS/%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%20(float%26flex).md>)
+- [레이아웃 gird](https://github.com/YuHyeonWook/TIL/blob/main/CSS/%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%20gird.md)
