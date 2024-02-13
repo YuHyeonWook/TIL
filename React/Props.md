@@ -184,3 +184,9 @@ export default Body;
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cdf5fd00-85a4-4001-aa3d-4b52542685d0/7b871df3-4a85-41b6-b6d0-542420c1eaa6/Untitled.png)
 
 - 컴포넌트를 개발자 도구의 콘솔에서 출력하면 객체 형식의 값을 출력함. 앞서 JSX에서는 자바스크립트 표현식이 객체를 평가할 경우 오류가 발생한다고 했지만, 이 객체는 리액트 컴포넌트를 표현한 것이므로 오류가 발생하지 않는다.
+
+<br>
+
+# 참고
+
+한입 크기 리액트
