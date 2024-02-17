@@ -77,5 +77,5 @@
 
 # 자료구조
 
-- [삽입 정렬]()
+- [삽입 정렬](https://github.com/YuHyeonWook/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.md)
 - []()
