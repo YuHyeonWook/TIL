@@ -70,5 +70,11 @@
 # HTML/CSS
 
 - [시맨틱 태그](https://github.com/YuHyeonWook/TIL/blob/main/HMTL,CSS/%EC%8B%9C%EB%A7%A8%ED%8B%B1%20%ED%83%9C%EA%B7%B8.md)
-- [레이아웃 (float&flex)](<https://github.com/YuHyeonWook/TIL/blob/main/CSS/%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%20(float%26flex).md>)
-- [레이아웃 gird](https://github.com/YuHyeonWook/TIL/blob/main/CSS/%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%20gird.md)
+
+<br>
+
+# 자료구조
+
+- [시간의 복잡도](https://github.com/YuHyeonWook/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%8B%9C%EA%B0%84%EC%9D%98%20%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
+- [삽입 정렬](https://github.com/YuHyeonWook/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.md)
+- [합병 정렬](https://github.com/YuHyeonWook/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%ED%95%A9%EB%B3%91%EC%A0%95%EB%A0%AC.md)
