@@ -75,6 +75,6 @@
 
 # 자료구조
 
-- [시간의 복잡도](https://github.com/YuHyeonWook/TIL/blob/main/자료구조/시간의 복잡도.md)
+- [시간의 복잡도](https://github.com/YuHyeonWook/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%8B%9C%EA%B0%84%EC%9D%98%20%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
 - [삽입 정렬](https://github.com/YuHyeonWook/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.md)
 - [합병 정렬](https://github.com/YuHyeonWook/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%ED%95%A9%EB%B3%91%EC%A0%95%EB%A0%AC.md)
