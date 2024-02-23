@@ -2,7 +2,7 @@
 
 # **REST API**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cdf5fd00-85a4-4001-aa3d-4b52542685d0/e6567b52-2af6-447a-a30b-4c61b46483b4/Untitled.png)
+![image](https://github.com/YuHyeonWook/TIL/assets/110236953/a1e5ef79-55e5-4b7b-9794-55dcf786f6d7)
 
 - REST(Representational State Transfer)의 약자로 자원을 이름으로 구분하여 해당 자원의 상태를 주고받는 모든 것을 의미함
 - 즉, HTTP URI(Uniform Resource Identifier)를 통해 자원(Resource)을 명시하고, HTTP Method(POST, GET, PUT, DELETE, PATCH 등)를 통해 해당 자원(URI)에 대한 CRUD Operation을 적용하는 것을 의미한다.
@@ -99,7 +99,8 @@ Good Example - http://khj93.com/post/1
 
 ## **RESTful이란?**
 
-!https://blog.kakaocdn.net/dn/Prbbr/btqUOBFqxzH/zhpIrKuFxPKI9QvRzmiBe1/img.png
+![image](https://github.com/YuHyeonWook/TIL/assets/110236953/c81ae8e4-b387-4df3-9fa3-66c0e367046f)
+
 
 RESTful이란 REST의 원리를 따르는 시스템을 의미한다다. 하지만 REST를 사용했다 하여 모두가 RESTful 한 것은 아니다.
 
