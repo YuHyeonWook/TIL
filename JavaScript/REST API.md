@@ -1,7 +1,5 @@
 # **REST API**
 
-# **REST API**
-
 ![image](https://github.com/YuHyeonWook/TIL/assets/110236953/a1e5ef79-55e5-4b7b-9794-55dcf786f6d7)
 
 - REST(Representational State Transfer)의 약자로 자원을 이름으로 구분하여 해당 자원의 상태를 주고받는 모든 것을 의미함
