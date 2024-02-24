@@ -75,7 +75,7 @@
 
 <br>
 
-# 자료구조 & 알고리즘
+# 자료구조
 
 ### 알고리즘
 
@@ -97,3 +97,5 @@
 - [스택(stack)](https://github.com/YuHyeonWook/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%26%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%8A%A4%ED%83%9D.md)
 - [큐(queue)](https://github.com/YuHyeonWook/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%26%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%81%90.md)
 - [우선순위 큐(Priority Queue)](https://github.com/YuHyeonWook/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%26%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90.md)
+
+# 알고리즘
