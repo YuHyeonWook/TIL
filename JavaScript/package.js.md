@@ -233,7 +233,7 @@ import BeomyLib from 'beomy-lib'
 
 semver를 참고하면 버전 범위를 지정하는 방법에 대해 알 수 있다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cdf5fd00-85a4-4001-aa3d-4b52542685d0/51509245-62ef-4989-87a9-52a34232fa94/Untitled.png)
+![image](https://github.com/YuHyeonWook/TIL/assets/110236953/a38bb94f-d991-414e-a2ff-07d3c2075c0d)
 
 ```
 "dependencies": {
