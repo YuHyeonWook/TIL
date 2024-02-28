@@ -58,7 +58,7 @@
 - [null과 undefined 차이점](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/null%EA%B3%BC%20undefined%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 - [REST API](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/REST%20API.md)
 - [package.json](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/package.js.md)
-- [Ajax](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/Ajax.md)
+- [Ajax(JSON)](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/Ajax.md)
   <br>
 
 # React
