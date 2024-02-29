@@ -44,6 +44,13 @@
 - [클래스](https://github.com/YuHyeonWook/TIL/blob/main/%EC%BD%94%EC%96%B4%20JavaScript/%ED%81%B4%EB%9E%98%EC%8A%A4.md)
   - [클래스 추가](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/class.md)
 
+### 클린코드 JS
+
+- [변수 다루기]()
+- [타입검사]()
+- [null & undefined, eqeq 줄이기]()
+- [형변환 주의하기, isNaN]()
+
 <br>
 
 - [호이스팅](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85.md)
