@@ -479,7 +479,7 @@ Promise.race 예시)
 - Callback Queue의 종류에는 (Macro)Task Queue, MicroTask Queue 2가지가 있다
   - 그중 자바스크립트 Promise 객체의 콜백이 쌓이는 곳이 바로 MicroTask Queue이다. 그리고 MicroTask Queue는 그 어떤 곳보다 가장 먼저 우선으로 콜백이 처리되게 된다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cdf5fd00-85a4-4001-aa3d-4b52542685d0/de4e3726-f482-4922-8ec5-02c461928465/Untitled.png)
+![image](https://github.com/KDT1-FE/KDT8-M1/assets/110236953/59a32584-a36b-4f95-a25a-929abf040f76)
 
 ```
 console.log('Start!');
@@ -503,7 +503,7 @@ console.log('End!');
 8. 이때 2종류의 Queue 중 MicroTask Queue에 남아있는 콜백이 우선적으로 처리된다. (만일 콟개이 여러개가 있다면 전부 처리된다)
 9. MicroTask Queue가 비어지면, 이제 이벤트 루프는 MacroTask Queue에 있는 콜백 함수를 Call Stack에 적재해 실행되게 된다.
 
-![image](https://github.com/KDT1-FE/KDT8-M1/assets/110236953/59a32584-a36b-4f95-a25a-929abf040f76)
+![image](https://github.com/YuHyeonWook/TIL/assets/110236953/12a05be2-c55d-4e99-8b30-2cd382d89004)
 
 ## **프로미스 정적 메서드**
 
