@@ -59,7 +59,7 @@
 - [REST API](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/REST%20API.md)
 - [package.json](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/package.json.md)
 - [Ajax(JSON)](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/Ajax.md)
-- [strict.mode]()
+- [strict mode](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/strict.mode.md)
   <br>
 
 # React
