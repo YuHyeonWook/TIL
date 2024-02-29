@@ -50,7 +50,7 @@
 - [불변값,가변값](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/%EB%B6%88%EB%B3%80%EA%B0%92%2C%EA%B0%80%EB%B3%80%EA%B0%92.md)
 - [var, let, const](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/var%2C%20let%2C%20const.md)
 - [비동기,동기](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/%EB%B9%84%EB%8F%99%EA%B8%B0%2C%EB%8F%99%EA%B8%B0.md)
-- [Promise]()
+- [Promise](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/promise.md)
 - [async/await]()
 - [Map](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/Map.md)
 - [Set](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/Set.md)
