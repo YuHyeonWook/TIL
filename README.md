@@ -51,7 +51,7 @@
 - [타입검사](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/%ED%83%80%EC%9E%85%EA%B2%80%EC%82%AC.md)
 - [null & undefined, eqeq 줄이기](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/null%20%26%20undefined%2C%20eqeq%20%EC%A4%84%EC%9D%B4%EA%B8%B0.md)
 - [형변환 주의하기, isNaN](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/%ED%98%95%EB%B3%80%ED%99%98%20%EC%A3%BC%EC%9D%98%ED%95%98%EA%B8%B0%2C%20isNaN.md)
-- [min-max, begin-end]()
+- [min-max, begin-end](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/min-max%2C%20begin-end.md)
 
 <br>
 
