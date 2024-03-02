@@ -126,4 +126,4 @@
 
 # 운영체제
 
-- [운영체제란]()
+- [운영체제란](https://github.com/YuHyeonWook/TIL/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%9E%80.md)
