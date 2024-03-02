@@ -46,12 +46,15 @@
 
 ### 클린코드 JS
 
-- [var를 지양, 함수 스코프와 블록 스코프](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/var%EB%A5%BC%20%EC%A7%80%EC%96%91%2C%20%ED%95%A8%EC%88%98%20%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80%20%EB%B8%94%EB%A1%9D%20%EC%8A%A4%EC%BD%94%ED%94%84.md)
-- [전역 공간 최소화, 임시 변수 최소화](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/%EC%A0%84%EC%97%AD%20%EA%B3%B5%EA%B0%84%20%EC%B5%9C%EC%86%8C%ED%99%94%2C%20%EC%9E%84%EC%8B%9C%20%EB%B3%80%EC%88%98%20%EC%B5%9C%EC%86%8C%ED%99%94.md)
-- [타입검사](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/%ED%83%80%EC%9E%85%EA%B2%80%EC%82%AC.md)
-- [null & undefined, eqeq 줄이기](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/null%20%26%20undefined%2C%20eqeq%20%EC%A4%84%EC%9D%B4%EA%B8%B0.md)
-- [형변환 주의하기, isNaN](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/%ED%98%95%EB%B3%80%ED%99%98%20%EC%A3%BC%EC%9D%98%ED%95%98%EA%B8%B0%2C%20isNaN.md)
-- [min-max, begin-end](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/min-max%2C%20begin-end.md)
+- 변수 다루기
+  - [var를 지양, 함수 스코프와 블록 스코프](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/var%EB%A5%BC%20%EC%A7%80%EC%96%91%2C%20%ED%95%A8%EC%88%98%20%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80%20%EB%B8%94%EB%A1%9D%20%EC%8A%A4%EC%BD%94%ED%94%84.md)
+  - [전역 공간 최소화, 임시 변수 최소화](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/%EC%A0%84%EC%97%AD%20%EA%B3%B5%EA%B0%84%20%EC%B5%9C%EC%86%8C%ED%99%94%2C%20%EC%9E%84%EC%8B%9C%20%EB%B3%80%EC%88%98%20%EC%B5%9C%EC%86%8C%ED%99%94.md)
+- 타입 다루기
+  - [타입검사](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/%ED%83%80%EC%9E%85%EA%B2%80%EC%82%AC.md)
+  - [null & undefined, eqeq 줄이기](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/null%20%26%20undefined%2C%20eqeq%20%EC%A4%84%EC%9D%B4%EA%B8%B0.md)
+  - [형변환 주의하기, isNaN](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/%ED%98%95%EB%B3%80%ED%99%98%20%EC%A3%BC%EC%9D%98%ED%95%98%EA%B8%B0%2C%20isNaN.md)
+- 경계 다루기
+  - [min-max, begin-end](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/min-max%2C%20begin-end.md)
 
 <br>
 
