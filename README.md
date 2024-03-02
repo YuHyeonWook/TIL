@@ -55,6 +55,7 @@
   - [형변환 주의하기, isNaN](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/%ED%98%95%EB%B3%80%ED%99%98%20%EC%A3%BC%EC%9D%98%ED%95%98%EA%B8%B0%2C%20isNaN.md)
 - 경계 다루기
   - [min-max, begin-end](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/min-max%2C%20begin-end.md)
+  - [first-last, 접두사-접미사, 매개변수의 순서가 경계](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/first-last%2C%20%EC%A0%91%EB%91%90%EC%82%AC-%EC%A0%91%EB%AF%B8%EC%82%AC%2C%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EC%9D%98%20%EC%88%9C%EC%84%9C%EA%B0%80%20%EA%B2%BD%EA%B3%84.md)
 
 <br>
 
