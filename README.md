@@ -85,11 +85,11 @@
 
 # TS
 
-- [ts개념]()
+- [ts개념](https://github.com/YuHyeonWook/TIL/blob/main/typescript/ts%EA%B0%9C%EB%85%90.md)
 
 ### 기본문법
 
-- [변수, 매개변수, 반환값에 타입, 타입 추론]()
+- [변수, 매개변수, 반환값에 타입, 타입 추론](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EB%B3%80%EC%88%98%2C%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%2C%20%EB%B0%98%ED%99%98%EA%B0%92%EC%97%90%20%ED%83%80%EC%9E%85%2C%20%ED%83%80%EC%9E%85%20%EC%B6%94%EB%A1%A0.md)
 
 <br>
 
