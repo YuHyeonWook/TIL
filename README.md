@@ -92,8 +92,8 @@
 - [ts개념](https://github.com/YuHyeonWook/TIL/blob/main/typescript/ts%EA%B0%9C%EB%85%90.md)
 
 - 기본문법
-  - [기본 타입]()
-  - [함수에 타입]()
+  - [기본 타입](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EA%B8%B0%EB%B3%B8%20%ED%83%80%EC%9E%85.md)
+  - [함수에 타입](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%ED%95%A8%EC%88%98%EC%97%90%20%ED%83%80%EC%9E%85.md)
   - [변수, 매개변수, 반환값에 타입, 타입 추론](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EB%B3%80%EC%88%98%2C%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%2C%20%EB%B0%98%ED%99%98%EA%B0%92%EC%97%90%20%ED%83%80%EC%9E%85%2C%20%ED%83%80%EC%9E%85%20%EC%B6%94%EB%A1%A0.md)
 
 <br>
