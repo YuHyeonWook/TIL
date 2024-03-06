@@ -58,6 +58,8 @@
   - [first-last, 접두사-접미사, 매개변수의 순서가 경계](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/first-last%2C%20%EC%A0%91%EB%91%90%EC%82%AC-%EC%A0%91%EB%AF%B8%EC%82%AC%2C%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EC%9D%98%20%EC%88%9C%EC%84%9C%EA%B0%80%20%EA%B2%BD%EA%B3%84.md)
 - 분기 다루기
   - [값식문, 삼항 연산자](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/%EA%B0%92%EC%8B%9D%EB%AC%B8%2C%20%EC%82%BC%ED%95%AD%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
+  - [truthy & falsy, 단축평가]()
+  - [else if 문, else문피하기, Early Return]()
 
 <br>
 
