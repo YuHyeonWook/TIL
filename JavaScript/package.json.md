@@ -413,6 +413,11 @@ CommonJS packages 스펙에는 `directories` 개체를 사용하여 패키지 
 - os : 패키지가 동작하는 운영체제를 지정한다.
 - cpu : 허용되는 cpu 목록을 저장한다.
 
+### package-lock.json 파일
+
+- package-lock.json 파일은 dependencies나 devDependencies에 명시된 라이브러리를 설치할 때 필요한 부수 라이브러리의 버전을 관리한다. package.json 파일에 명시된 라이브러리를 설치하고 나면 자동으로 생성된다.
+- package.json 파일과 다르게 개발자가 직접 package-lock.json 파일의 내용을 수정하지 않는다.
+
 <br>
 
 # 참고

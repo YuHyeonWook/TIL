@@ -93,6 +93,7 @@
 
 # TS
 
+- [tsconfig.json]()
 - [ts개념](https://github.com/YuHyeonWook/TIL/blob/main/typescript/ts%EA%B0%9C%EB%85%90.md)
 
 - 기본문법
