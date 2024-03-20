@@ -102,10 +102,10 @@
 - [기본 타입](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EA%B8%B0%EB%B3%B8%20%ED%83%80%EC%9E%85.md)
 - [함수에 타입](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%ED%95%A8%EC%88%98%EC%97%90%20%ED%83%80%EC%9E%85.md)
 - [변수, 매개변수, 반환값에 타입, 타입 추론](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EB%B3%80%EC%88%98%2C%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%2C%20%EB%B0%98%ED%99%98%EA%B0%92%EC%97%90%20%ED%83%80%EC%9E%85%2C%20%ED%83%80%EC%9E%85%20%EC%B6%94%EB%A1%A0.md)
-- [인터페이스]()
-- [연산자를 사용한 타입정의]()
-- [타입 별칭]()
-- [이넘(enum)]()
+- [인터페이스](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
+- [연산자를 사용한 타입정의](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EC%97%B0%EC%82%B0%EC%9E%90%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%ED%83%80%EC%9E%85%EC%A0%95%EC%9D%98.md)
+- [타입 별칭](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%ED%83%80%EC%9E%85%20%EB%B3%84%EC%B9%AD.md)
+- [이넘(enum)](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EC%9D%B4%EB%84%98.md)
 
 <br>
 
