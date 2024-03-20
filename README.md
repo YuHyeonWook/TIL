@@ -84,7 +84,7 @@
 
 # React
 
-- [리액트 기본 개념(1)](<https://github.com/YuHyeonWook/TIL/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EA%B8%B0%EB%B3%B8%EA%B0%9C%EB%85%90%20(1).md>)
+- [리액트 기본 개념](<https://github.com/YuHyeonWook/TIL/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EA%B8%B0%EB%B3%B8%EA%B0%9C%EB%85%90%20(1).md>)
 - [리액트 라이프 사이클](https://github.com/YuHyeonWook/TIL/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%82%AC%EC%9D%B4%ED%81%B4.md)
 - [Props](https://github.com/YuHyeonWook/TIL/blob/main/React/Props.md)
 - [이벤트 처리](https://github.com/YuHyeonWook/TIL/blob/main/React/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%B2%98%EB%A6%AC.md)
@@ -97,10 +97,15 @@
 - [tsconfig.json]()
 - [ts개념](https://github.com/YuHyeonWook/TIL/blob/main/typescript/ts%EA%B0%9C%EB%85%90.md)
 
-- 기본문법
-  - [기본 타입](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EA%B8%B0%EB%B3%B8%20%ED%83%80%EC%9E%85.md)
-  - [함수에 타입](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%ED%95%A8%EC%88%98%EC%97%90%20%ED%83%80%EC%9E%85.md)
-  - [변수, 매개변수, 반환값에 타입, 타입 추론](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EB%B3%80%EC%88%98%2C%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%2C%20%EB%B0%98%ED%99%98%EA%B0%92%EC%97%90%20%ED%83%80%EC%9E%85%2C%20%ED%83%80%EC%9E%85%20%EC%B6%94%EB%A1%A0.md)
+### 쉽게 시작하는 타입스크립트
+
+- [기본 타입](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EA%B8%B0%EB%B3%B8%20%ED%83%80%EC%9E%85.md)
+- [함수에 타입](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%ED%95%A8%EC%88%98%EC%97%90%20%ED%83%80%EC%9E%85.md)
+- [변수, 매개변수, 반환값에 타입, 타입 추론](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EB%B3%80%EC%88%98%2C%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%2C%20%EB%B0%98%ED%99%98%EA%B0%92%EC%97%90%20%ED%83%80%EC%9E%85%2C%20%ED%83%80%EC%9E%85%20%EC%B6%94%EB%A1%A0.md)
+- [인터페이스]()
+- [연산자를 사용한 타입정의]()
+- [타입 별칭]()
+- [이넘(enum)]()
 
 <br>
 
