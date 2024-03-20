@@ -106,8 +106,8 @@
 - [연산자를 사용한 타입정의](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EC%97%B0%EC%82%B0%EC%9E%90%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%ED%83%80%EC%9E%85%EC%A0%95%EC%9D%98.md)
 - [타입 별칭](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%ED%83%80%EC%9E%85%20%EB%B3%84%EC%B9%AD.md)
 - [이넘(enum)](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EC%9D%B4%EB%84%98.md)
-- [클래스]()
-- [제네릭]()
+- [클래스](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%ED%81%B4%EB%9E%98%EC%8A%A4.md)
+- [제네릭](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EC%A0%9C%EB%84%A4%EB%A6%AD.md)
 
 <br>
 
