@@ -89,6 +89,11 @@
 - [Props](https://github.com/YuHyeonWook/TIL/blob/main/React/Props.md)
 - [이벤트 처리](https://github.com/YuHyeonWook/TIL/blob/main/React/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%B2%98%EB%A6%AC.md)
 - [useRef](https://github.com/YuHyeonWook/TIL/blob/main/React/useRef.md)
+- [useReducer]()
+- [메모이제이션(Memoization)]()
+- [React.memo(최적화 기능)]()
+- [map 함수를 이용한 컴포넌트 반복]()
+- [React 불변성의 중요성]()
 
 <br>
 
