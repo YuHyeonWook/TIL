@@ -84,7 +84,7 @@
 
 # React
 
-- [리액트 기본 개념](<https://github.com/YuHyeonWook/TIL/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EA%B8%B0%EB%B3%B8%EA%B0%9C%EB%85%90%20(1).md>)
+- [리액트 기본 개념](https://github.com/YuHyeonWook/TIL/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EA%B8%B0%EB%B3%B8%EA%B0%9C%EB%85%90.md)
 - [리액트 라이프 사이클](https://github.com/YuHyeonWook/TIL/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%82%AC%EC%9D%B4%ED%81%B4.md)
 - [Props](https://github.com/YuHyeonWook/TIL/blob/main/React/Props.md)
 - [이벤트 처리](https://github.com/YuHyeonWook/TIL/blob/main/React/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%B2%98%EB%A6%AC.md)
