@@ -30,9 +30,9 @@
 
 <br>
 
-# JS
+# JavaScript
 
-### 코어 자바스크립트
+### 코어 JavaScript
 
 - [데이터 타입](https://github.com/YuHyeonWook/TIL/blob/main/%EC%BD%94%EC%96%B4%20JavaScript/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md)
 - [실행 컨텍스트](https://github.com/YuHyeonWook/TIL/blob/main/%EC%BD%94%EC%96%B4%20JavaScript/%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
@@ -44,22 +44,18 @@
 - [클래스](https://github.com/YuHyeonWook/TIL/blob/main/%EC%BD%94%EC%96%B4%20JavaScript/%ED%81%B4%EB%9E%98%EC%8A%A4.md)
   - [클래스 추가](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/class.md)
 
-### 클린코드 JS
+### 클린코드 JavaScript
 
-- 변수 다루기
-  - [var를 지양, 함수 스코프와 블록 스코프](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/var%EB%A5%BC%20%EC%A7%80%EC%96%91%2C%20%ED%95%A8%EC%88%98%20%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80%20%EB%B8%94%EB%A1%9D%20%EC%8A%A4%EC%BD%94%ED%94%84.md)
-  - [전역 공간 최소화, 임시 변수 최소화](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/%EC%A0%84%EC%97%AD%20%EA%B3%B5%EA%B0%84%20%EC%B5%9C%EC%86%8C%ED%99%94%2C%20%EC%9E%84%EC%8B%9C%20%EB%B3%80%EC%88%98%20%EC%B5%9C%EC%86%8C%ED%99%94.md)
-- 타입 다루기
-  - [타입검사](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/%ED%83%80%EC%9E%85%EA%B2%80%EC%82%AC.md)
-  - [null & undefined, eqeq 줄이기](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/null%20%26%20undefined%2C%20eqeq%20%EC%A4%84%EC%9D%B4%EA%B8%B0.md)
-  - [형변환 주의하기, isNaN](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/%ED%98%95%EB%B3%80%ED%99%98%20%EC%A3%BC%EC%9D%98%ED%95%98%EA%B8%B0%2C%20isNaN.md)
-- 경계 다루기
-  - [min-max, begin-end](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/min-max%2C%20begin-end.md)
-  - [first-last, 접두사-접미사, 매개변수의 순서가 경계](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/first-last%2C%20%EC%A0%91%EB%91%90%EC%82%AC-%EC%A0%91%EB%AF%B8%EC%82%AC%2C%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EC%9D%98%20%EC%88%9C%EC%84%9C%EA%B0%80%20%EA%B2%BD%EA%B3%84.md)
-- 분기 다루기
-  - [값식문, 삼항 연산자](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/%EA%B0%92%EC%8B%9D%EB%AC%B8%2C%20%EC%82%BC%ED%95%AD%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
-  - [truthy & falsy, 단축평가](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/truthy%20%26%20falsy%2C%20%EB%8B%A8%EC%B6%95%ED%8F%89%EA%B0%80.md)
-  - [else if 문, else문피하기, Early Return](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/else%20if%20%EB%AC%B8%2C%20else%EB%AC%B8%ED%94%BC%ED%95%98%EA%B8%B0%2C%20Early%20Return.md)
+- [var를 지양, 함수 스코프와 블록 스코프](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/var%EB%A5%BC%20%EC%A7%80%EC%96%91%2C%20%ED%95%A8%EC%88%98%20%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80%20%EB%B8%94%EB%A1%9D%20%EC%8A%A4%EC%BD%94%ED%94%84.md)
+- [전역 공간 최소화, 임시 변수 최소화](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/%EC%A0%84%EC%97%AD%20%EA%B3%B5%EA%B0%84%20%EC%B5%9C%EC%86%8C%ED%99%94%2C%20%EC%9E%84%EC%8B%9C%20%EB%B3%80%EC%88%98%20%EC%B5%9C%EC%86%8C%ED%99%94.md)
+- [타입검사](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/%ED%83%80%EC%9E%85%EA%B2%80%EC%82%AC.md)
+- [null & undefined, eqeq 줄이기](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/null%20%26%20undefined%2C%20eqeq%20%EC%A4%84%EC%9D%B4%EA%B8%B0.md)
+- [형변환 주의하기, isNaN](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/%ED%98%95%EB%B3%80%ED%99%98%20%EC%A3%BC%EC%9D%98%ED%95%98%EA%B8%B0%2C%20isNaN.md)
+- [min-max, begin-end](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/min-max%2C%20begin-end.md)
+- [first-last, 접두사-접미사, 매개변수의 순서가 경계](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/first-last%2C%20%EC%A0%91%EB%91%90%EC%82%AC-%EC%A0%91%EB%AF%B8%EC%82%AC%2C%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EC%9D%98%20%EC%88%9C%EC%84%9C%EA%B0%80%20%EA%B2%BD%EA%B3%84.md)
+- [값식문, 삼항 연산자](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/%EA%B0%92%EC%8B%9D%EB%AC%B8%2C%20%EC%82%BC%ED%95%AD%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
+- [truthy & falsy, 단축평가](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/truthy%20%26%20falsy%2C%20%EB%8B%A8%EC%B6%95%ED%8F%89%EA%B0%80.md)
+- [else if 문, else문피하기, Early Return](https://github.com/YuHyeonWook/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%20JS/else%20if%20%EB%AC%B8%2C%20else%EB%AC%B8%ED%94%BC%ED%95%98%EA%B8%B0%2C%20Early%20Return.md)
 
 <br>
 
@@ -97,7 +93,7 @@
 
 <br>
 
-# TS
+# TypeScript
 
 - [tsconfig.json]()
 - [ts개념](https://github.com/YuHyeonWook/TIL/blob/main/typescript/ts%EA%B0%9C%EB%85%90.md)
