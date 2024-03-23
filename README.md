@@ -113,8 +113,8 @@
 - [이넘(enum)](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EC%9D%B4%EB%84%98.md)
 - [클래스](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 - [제네릭](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EC%A0%9C%EB%84%A4%EB%A6%AD.md)
-- [타입단언]()
-- [타입가드]()
+- [타입단언](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%ED%83%80%EC%9E%85%EB%8B%A8%EC%96%B8.md)
+- [타입가드](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%ED%83%80%EC%9E%85%EA%B0%80%EB%93%9C.md)
 
 <br>
 
