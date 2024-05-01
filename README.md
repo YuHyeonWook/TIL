@@ -2,8 +2,6 @@
 
 [블로그](https://yho7955.tistory.com/)
 
-<br/>
-
 # HTTP
 
 - [인터넷 네트워크](https://github.com/YuHyeonWook/TIL/blob/main/HTTP/1.%20%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%9D%B8%ED%84%B0%EB%84%A4%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
@@ -15,8 +13,6 @@
 - [HTTP헤더1 - 일반 헤더]()
 - [HTTP헤더2 - 캐시와 조건부 요청]()
 
-<br>
-
 # Git
 
 - [Git 기초](https://github.com/YuHyeonWook/TIL/blob/main/Git/Git%20%EA%B8%B0%EC%B4%88.md)
@@ -27,8 +23,6 @@
 - [Git log 활용](https://github.com/YuHyeonWook/TIL/blob/main/Git/Git%20log%ED%99%9C%EC%9A%A9.md)
 - [Git diff, Git blame, Git bisect](https://github.com/YuHyeonWook/TIL/blob/main/Git/Git%20diff%2C%20Git%20blame%2C%20Git%20bisect.md)
 - [Git 추가 기능들](https://github.com/YuHyeonWook/TIL/blob/main/Git/Git%20%EC%B6%94%EA%B0%80%20%EA%B8%B0%EB%8A%A5%EB%93%A4.md)
-
-<br>
 
 # JavaScript
 
@@ -76,7 +70,6 @@
 - [브라우저의 내부 구성도](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98%20%EB%82%B4%EB%B6%80%20%EA%B5%AC%EC%84%B1%EB%8F%84.md)
 - [DOM 문법](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/DOM%20%EB%AC%B8%EB%B2%95.md)
 - [이벤트](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8.md)
-  <br>
 
 # React
 
@@ -93,15 +86,10 @@
 - [React 불변성의 중요성](https://github.com/YuHyeonWook/TIL/blob/main/React/React%20%EB%B6%88%EB%B3%80%EC%84%B1%EC%9D%98%20%EC%A4%91%EC%9A%94%EC%84%B1.md)
 - [immer를 사용하여 더 쉽게 불변성 유지하기](https://github.com/YuHyeonWook/TIL/blob/main/React/immer%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%8D%94%20%EC%89%AC%EB%B0%B0%EA%B2%8C%20%EB%B6%88%EB%B3%80%EC%84%B1%20%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0.md)
 
-<br>
-
 # TypeScript
 
 - [tsconfig.json]()
 - [ts개념](https://github.com/YuHyeonWook/TIL/blob/main/typescript/ts%EA%B0%9C%EB%85%90.md)
-
-### 쉽게 시작하는 타입스크립트
-
 - [기본 타입](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EA%B8%B0%EB%B3%B8%20%ED%83%80%EC%9E%85.md)
 - [함수에 타입](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%ED%95%A8%EC%88%98%EC%97%90%20%ED%83%80%EC%9E%85.md)
 - [변수, 매개변수, 반환값에 타입, 타입 추론](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EB%B3%80%EC%88%98%2C%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%2C%20%EB%B0%98%ED%99%98%EA%B0%92%EC%97%90%20%ED%83%80%EC%9E%85%2C%20%ED%83%80%EC%9E%85%20%EC%B6%94%EB%A1%A0.md)
@@ -114,13 +102,9 @@
 - [타입단언](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%ED%83%80%EC%9E%85%EB%8B%A8%EC%96%B8.md)
 - [타입가드](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%ED%83%80%EC%9E%85%EA%B0%80%EB%93%9C.md)
 
-<br>
-
 # HTML/CSS
 
 - [시맨틱 태그](https://github.com/YuHyeonWook/TIL/blob/main/HMTL,CSS/%EC%8B%9C%EB%A7%A8%ED%8B%B1%20%ED%83%9C%EA%B7%B8.md)
-
-<br>
 
 # 자료구조
 
@@ -145,13 +129,9 @@
 - [다익스트라 알고리즘 (최단 경로 알고리즘)](https://github.com/YuHyeonWook/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%26%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 - [DFS & BFS](https://github.com/YuHyeonWook/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%26%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/DFS%20%26%20BFS.md)
 
-<br>
-
 # 디자인 패턴
 
 - [싱글톤 패턴](https://github.com/YuHyeonWook/TIL/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md)
-
-<br>
 
 # 운영체제
 
