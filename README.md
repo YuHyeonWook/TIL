@@ -70,7 +70,7 @@
 - [브라우저의 내부 구성도](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98%20%EB%82%B4%EB%B6%80%20%EA%B5%AC%EC%84%B1%EB%8F%84.md)
 - [DOM 문법](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/DOM%20%EB%AC%B8%EB%B2%95.md)
 - [이벤트](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8.md)
-- [순수함수와 부수효과]()
+- [순수함수와 부수효과](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/%EC%88%9C%EC%88%98%ED%95%A8%EC%88%98%EC%99%80%EB%B6%80%EC%88%98%ED%9A%A8%EA%B3%BC.md)
 
 # React
 
