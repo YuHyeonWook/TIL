@@ -2,6 +2,10 @@
 
 [블로그](https://yho7955.tistory.com/)
 
+# 크롬
+
+- [크롬 개발자도구]()
+
 # HTTP
 
 - [인터넷 네트워크](https://github.com/YuHyeonWook/TIL/blob/main/HTTP/1.%20%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EC%9D%B8%ED%84%B0%EB%84%A4%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
@@ -86,6 +90,7 @@
 - [map 함수를 이용한 컴포넌트 반복](https://github.com/YuHyeonWook/TIL/blob/main/React/map%20%ED%95%A8%EC%88%98%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EB%B0%98%EB%B3%B5.md)
 - [React 불변성의 중요성](https://github.com/YuHyeonWook/TIL/blob/main/React/React%20%EB%B6%88%EB%B3%80%EC%84%B1%EC%9D%98%20%EC%A4%91%EC%9A%94%EC%84%B1.md)
 - [immer를 사용하여 더 쉽게 불변성 유지하기](https://github.com/YuHyeonWook/TIL/blob/main/React/immer%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%8D%94%20%EC%89%AC%EB%B0%B0%EA%B2%8C%20%EB%B6%88%EB%B3%80%EC%84%B1%20%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0.md)
+- [StrictMode]()
 
 # TypeScript
 
@@ -102,6 +107,7 @@
 - [제네릭](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%EC%A0%9C%EB%84%A4%EB%A6%AD.md)
 - [타입단언](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%ED%83%80%EC%9E%85%EB%8B%A8%EC%96%B8.md)
 - [타입가드](https://github.com/YuHyeonWook/TIL/blob/main/typescript/%ED%83%80%EC%9E%85%EA%B0%80%EB%93%9C.md)
+- [type별칭과 interface 차이]()
 
 # HTML/CSS
 
