@@ -143,4 +143,4 @@
 # 그 외
 
 - [크롬 개발자도구](https://github.com/YuHyeonWook/TIL/blob/main/JavaScript/%ED%81%AC%EB%A1%AC%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84%EA%B5%AC.md)
-- [스토리북]()
+- [스토리북](https://github.com/YuHyeonWook/TIL/blob/main/%EA%B7%B8%EC%99%B8/%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B6%81.md)
