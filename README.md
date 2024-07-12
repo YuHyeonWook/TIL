@@ -23,6 +23,7 @@
 - [Git log 활용](https://github.com/YuHyeonWook/TIL/blob/main/Git/Git%20log%ED%99%9C%EC%9A%A9.md)
 - [Git diff, Git blame, Git bisect](https://github.com/YuHyeonWook/TIL/blob/main/Git/Git%20diff%2C%20Git%20blame%2C%20Git%20bisect.md)
 - [Git 추가 기능들](https://github.com/YuHyeonWook/TIL/blob/main/Git/Git%20%EC%B6%94%EA%B0%80%20%EA%B8%B0%EB%8A%A5%EB%93%A4.md)
+- [git fork - 원본 저장소에 pr 올리기]()
 
 # JavaScript
 
